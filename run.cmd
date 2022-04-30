@@ -1,0 +1,3 @@
+echo Start...
+CMD /C npm start
+pause

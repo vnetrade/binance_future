@@ -1,0 +1,3 @@
+echo Installing...
+CMD /C npm install
+pause

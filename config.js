@@ -1,0 +1,11 @@
+module.exports = {
+    API_KEY: "",
+    SECRET_KEY: "",
+    SYMBOL: "CRV/USDT",
+    POSITION_SIZE: 18,
+    NUM_BUY_GRID_LINES: 10,
+    NUM_SELL_GRID_LINES: 10,
+    GRID_SIZE: 0.1,
+    CHECK_ORDERS_FREQUENCY: 1,
+    CLOSED_ORDER_STATUS: 'closed'
+};
